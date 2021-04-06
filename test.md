@@ -3,6 +3,8 @@ but responsive design also yields a win for accessibility.
 
 qwerty
 
+asdfgh
+
 Consider a site like [Udacity](https://udacity.com):
 
 <figure class="w-figure">
