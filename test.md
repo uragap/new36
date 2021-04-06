@@ -3,9 +3,7 @@ but responsive design also yields a win for accessibility.
 
 qwerty
 
-asdfgh
-
-ahnbfdnjfd
+asdfg
 
 Consider a site like [Udacity](https://udacity.com):
 
