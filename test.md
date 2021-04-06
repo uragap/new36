@@ -1,6 +1,8 @@
 We know that it's a good idea to design responsively to provide the best multi-device experience,
 but responsive design also yields a win for accessibility.
 
+qwerty
+
 Consider a site like [Udacity](https://udacity.com):
 
 <figure class="w-figure">
